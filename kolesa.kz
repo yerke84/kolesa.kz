@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/Рабочий\ стол/github/kolesa.kz
+npm start
